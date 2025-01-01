@@ -6,16 +6,4 @@ public class matematikaCanggih extends Matematika{
         mat = a % b;
     }
     
-    @Override
-    int getOperasi(){
-        return mat;
-    }
-    
-//    void display(){
-//        System.out.println("Hasil " + operasi + " " + mat);
-//    }
-//    void display2(){
-//        System.out.println("Hasil " + operasi + " double " + mat2);
-//    }
-    
 }
