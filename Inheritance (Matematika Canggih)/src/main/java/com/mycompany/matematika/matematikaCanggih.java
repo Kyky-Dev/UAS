@@ -6,11 +6,4 @@ public class matematikaCanggih extends Matematika{
         mat = a % b;
     }
     
-//    void display(){
-//        System.out.println("Hasil " + operasi + " " + mat);
-//    }
-//    void display2(){
-//        System.out.println("Hasil " + operasi + " double " + mat2);
-//    }
-    
 }
