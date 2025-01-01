@@ -19,13 +19,11 @@ public class Matematika {
         void perkalian(int a, int b){
             mat = a * b;
         }
-
         
         //BAGI
         void pembagian(int a, int b){
             mat = a / b;
         }
-
         
         int getOperasi(){
             return mat;
